@@ -9,3 +9,4 @@
 
 
 ## Шаг 3. Работа с GIL
+![image](https://github.com/user-attachments/assets/d5c19319-5e48-4527-8453-5f37449a4278)
